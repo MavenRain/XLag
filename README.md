@@ -1,5 +1,5 @@
 # XLag
-Part of the Viron Software toolset.
+This program is part of the Viron Software toolset consisting of:
 - [https://github.com/xanather/XTransfer](https://github.com/xanather/XTransfer)
 - [https://github.com/xanather/XLag](https://github.com/xanather/XLag)
 - [https://github.com/xanather/XHasher](https://github.com/xanather/XHasher)
