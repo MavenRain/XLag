@@ -3,8 +3,7 @@ Part of the Viron Software toolset.
 
 Emulates slow networks (i.e. latency and bandwidth restrictions), useful for testing and debugging networked applications.
 
-Note that it uses the Visual Studio 2013 network emulator. Having the Visual Studio 2013 network emulator driver installed
-is required, it also requires adiminstrative privileges to run.
+Note that the program uses the Visual Studio 2013 network emulator. Having the Visual Studio 2013 network emulator driver installed is required, the program also requires adiminstrative privileges to run.
 
 Supported operating systems:
 
