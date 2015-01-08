@@ -1,0 +1,41 @@
+<Emulation>
+  <VirtualChannel name="ICWAN-Channel1">
+    <FilterList />
+    <VirtualLink instances="1" name="link1">
+      <LinkRule dir="upstream">
+        <Bandwidth>
+          <Speed unit="kbps">1500</Speed>
+          <QueueManagement>
+            <NormalQueue>
+              <Size>100</Size>
+              <QueueMode>packet</QueueMode>
+              <DropType>DropTail</DropType>
+            </NormalQueue>
+          </QueueManagement>
+        </Bandwidth>
+        <Latency>
+          <Fixed>
+            <Time unit="msec">150</Time>
+          </Fixed>
+        </Latency>
+      </LinkRule>
+      <LinkRule dir="downstream">
+        <Bandwidth>
+          <Speed unit="kbps">1500</Speed>
+          <QueueManagement>
+            <NormalQueue>
+              <Size>100</Size>
+              <QueueMode>packet</QueueMode>
+              <DropType>DropTail</DropType>
+            </NormalQueue>
+          </QueueManagement>
+        </Bandwidth>
+        <Latency>
+          <Fixed>
+            <Time unit="msec">150</Time>
+          </Fixed>
+        </Latency>
+      </LinkRule>
+    </VirtualLink>
+  </VirtualChannel>
+</Emulation>
