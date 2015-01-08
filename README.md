@@ -1,7 +1,7 @@
 # XLag
 Part of the Viron Software toolset.
 
-Emulates slow networks (i.e. latency and bandwidth restrictions), useful for testing and debugging networked applications.Pull requests are welcome.
+Emulates slow networks (i.e. latency and bandwidth restrictions), useful for testing and debugging networked applications. Pull requests are welcome.
 
 Note that the program uses the Visual Studio 2013 network emulator. Having the Visual Studio 2013 network emulator driver installed is required, the program also requires adiminstrative privileges to run.
 
