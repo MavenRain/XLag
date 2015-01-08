@@ -1,5 +1,11 @@
 # XLag
 Part of the Viron Software toolset.
+- [https://github.com/xanather/XTransfer](https://github.com/xanather/XTransfer)
+- [https://github.com/xanather/XLag](https://github.com/xanather/XLag)
+- [https://github.com/xanather/XHasher](https://github.com/xanather/XHasher)
+- [https://github.com/xanather/XPassworder](https://github.com/xanather/XPassworder)
+- [https://github.com/xanather/XStopwatch](https://github.com/xanather/XStopwatch)
+- [https://github.com/xanather/XWaveConverter](https://github.com/xanather/XWaveConverter)
 
 Emulates slow networks (i.e. latency and bandwidth restrictions), useful for testing and debugging networked applications. Pull requests are welcome.
 
